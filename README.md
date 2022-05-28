@@ -23,8 +23,10 @@ Codes Related to NLP
 - Classification of Movie Reviews
 - Multilabel Feature Classification of Authors
 - SPAM Classification of SMS
+- Sarcasm Detection on Tweets
+- Sentiment Analysis on IMDB dataset
 
 ## Libraries
-Scikit learn, Tensorflow, Keras, 
+Scikit learn, Tensorflow, Keras
 
 
